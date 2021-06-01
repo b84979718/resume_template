@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.social-icon {
+    color: white;
+    font-size: 22px;
+}
+
+.bottom-section {
+    background-color: #3c8f47;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+.designation-details {
+    font-size: 18px;
+}
+
+.current {
+    background-color: #3c8f47;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.working-period {
+    color: #3c8f47;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.job-designation {
+    color: #858c86;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.experience-icon {
+    color: #4a965a;
+    font-size: 35px;
+    margin-top: 3px;
+    margin-right: 13px;
+}
+
+.hindi {
+    width: 30%;
+    height: 23px;
+}
+
+
+.telugu {
+    width: 100%;
+    height: 23px;
+}
+
+.english {
+    width: 75%;
+    height: 23px;
+}
+
+.html {
+    width: 80%;
+}
+
+.css {
+    width: 75%;
+}
+
+.js {
+    width: 20%;
+}
+
+.python {
+    width: 90%;
+}
+
+.skills-percentage {
+    background-color: #4a965a;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+.skills-container {
+    background-color: #c3c9c5;
+    border-radius: 10px;
+}
+
+.skills-heading {
+    color: #8a948c;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.first-section-details-container-information-designation {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.awesome-icon {
+    color: #3c8f47;
+    font-size: 23px;
+    margin-top: 3px;
+    margin-right: 13px;
+}
+
+.name {
+    color: #000806;
+    font-size: 28px;
+}
+
+.first-section-image-container {
+    background-image: url('https://res.cloudinary.com/dbhq6ui9n/image/upload/v1608191166/IMG20191027161554_zi1cyj.jpg');
+    background-size: cover;
+    height: 300px;
+}
+
+.full-container {
+    font-family: "Roboto";
+}
